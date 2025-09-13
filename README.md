@@ -14,7 +14,7 @@ E-mail: gargisrikashyap321@gmail.com
 LinkdIn: https://www.linkedin.com/in/gargisri-goswami-a03a46345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app .
 Interested areas:Genomics and transcriptomics data analysis, Variant calling and annotation, NGS data workflows, Data integration and visualization, Automation of bioinformatics pipelines.
 Looking For:
-Research internships or collaborations in computational biology
-Opportunities to apply and improve my programming skills in bioinformatics
-Projects involving NGS data, genome assembly, or variant analysis
-Guidance in advanced statistical or machine learning methods in genomics
+Research internships or collaborations in computational biology,
+Opportunities to apply and improve my programming skills in bioinformatics,
+Projects involving NGS data, genome assembly, or variant analysis,
+Guidance in advanced statistical or machine learning methods in genomics.
